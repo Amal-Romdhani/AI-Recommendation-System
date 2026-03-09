@@ -1,0 +1,501 @@
+user_id,full_name,role,interests,business_activity
+U0001,Nicolas Gharbi,Data Scientist,"statistics,data science,deep learning,machine learning,NLP,python",Data & Analytics
+U0002,Maxime Hammamia,Machine Learning Engineer,"machine learning,pytorch,MLOps,tensorflow",Data & Analytics
+U0003,Antoine Bouzid,AI Researcher,"NLP,pytorch,papers,reinforcement learning,neural networks,research",Data & Analytics
+U0004,Ahmed Zouari,Financial Analyst,"fintech,investment,modeling,excel,finance",Finance & Banking
+U0005,Rania Fakhfakh,DevOps Engineer,"CI/CD,cloud,automation,kubernetes,docker",IT & Software Development
+U0006,Cyrine Ben Amor,Social Media Manager,"analytics,community management,campaigns,content creation",Marketing & Communication
+U0007,Sonia Bouaziz,Machine Learning Engineer,"pytorch,tensorflow,machine learning,computer vision,MLOps,python",Data & Analytics
+U0008,Hatem Thomas,Content Creator,"storytelling,video,blogging,SEO",Marketing & Communication
+U0009,Rim Mzoughi,Data Engineer,"bigdata,hadoop,SQL,data pipelines,ETL,spark",Data & Analytics
+U0010,Nicolas Bertrand,Project Manager,"risk management,agile,scrum,stakeholders,planning,budgeting",Entrepreneurship & Management
+U0011,Rim Bouaziz,Product Manager,"startup,roadmap,agile,KPIs,user research,product strategy",Entrepreneurship & Management
+U0012,Julie Thomas,Mobile Developer,"react native,kotlin,iOS,android,mobile UX",IT & Software Development
+U0013,Clara Guediche,Content Creator,"blogging,SEO,social media,writing",Marketing & Communication
+U0014,Oussama Farhat,Cloud Architect,"networking,Azure,serverless,GCP",IT & Software Development
+U0015,Tarek Gargouri,Social Media Manager,"content creation,analytics,community management,campaigns,instagram,tiktok",Marketing & Communication
+U0016,Simon Michel,Operations Manager,"process optimization,logistics,KPIs,supply chain,operations,lean",Entrepreneurship & Management
+U0017,Ahmed Belhadj,System Administrator,"security,linux,virtualization,backup",IT & Software Development
+U0018,Najoua Silva,AI Researcher,"research,neural networks,reinforcement learning,NLP",Data & Analytics
+U0019,Wael Durand,Data Scientist,"statistics,NLP,data science,machine learning",Data & Analytics
+U0020,Jihen Roux,Full Stack Developer,"cloud,REST API,node.js,mongodb",IT & Software Development
+U0021,Aziz Saidi,Cybersecurity Expert,"SIEM,ethical hacking,penetration testing,network security,cybersecurity",IT & Software Development
+U0022,Badreddine Ferchichi,Graphic Designer,"creativity,typography,illustration,visual identity,branding",Design & Creative
+U0023,Yasmine Baccar,Project Manager,"risk management,agile,scrum,budgeting",Entrepreneurship & Management
+U0024,Mariam Ben Salah,Backend Developer,"databases,java,springboot,docker,microservices,REST API",IT & Software Development
+U0025,Ines Simon,Entrepreneur,"leadership,innovation,fundraising,business development,startup",Entrepreneurship & Management
+U0026,Ismail Vincent,Sales Manager,"negotiation,SaaS,CRM,B2B sales",Sales & Business Development
+U0027,Sami Martin,Digital Strategist,"content,SEO,brand strategy,growth,social media",Marketing & Communication
+U0028,Nadia Guediche,Marketing Manager,"SEO,analytics,campaigns,content marketing",Marketing & Communication
+U0029,Radhouane Baccouche,Financial Analyst,"fintech,excel,investment,finance",Finance & Banking
+U0030,Sabrine David,DevOps Engineer,"automation,cloud,kubernetes,linux",IT & Software Development
+U0031,Oussama Aouadi,Data Engineer,"data pipelines,bigdata,hadoop,SQL,spark",Data & Analytics
+U0032,Hana Fakhfakh,Software Engineer,"algorithms,open source,git,software development,java",IT & Software Development
+U0033,Amira Jebali,UX Designer,"design thinking,wireframing,usability,figma",Design & Creative
+U0034,Chiraz Khelifi,Frontend Developer,"CSS,web design,react,javascript,angular,UX",IT & Software Development
+U0035,Tarek Santos,Backend Developer,"springboot,REST API,java,microservices,docker,databases",IT & Software Development
+U0036,Thomas Dridi,Recruiter,"onboarding,diversity,HR tech,LinkedIn,talent sourcing,screening",Human Resources
+U0037,Jihen Belhadj,HR Manager,"people,HR tech,onboarding,talent acquisition",Human Resources
+U0038,Oussama Mzoughi,Software Engineer,"java,git,python,open source,algorithms",IT & Software Development
+U0039,Najoua Belhadj,Cybersecurity Expert,"cybersecurity,ethical hacking,penetration testing,network security,SIEM",IT & Software Development
+U0040,Sabrine Garcia,Graphic Designer,"creativity,visual identity,adobe,typography,branding,illustration",Design & Creative
+U0041,Donia Belhadj,Cloud Architect,"networking,cloud architecture,Azure,serverless",IT & Software Development
+U0042,Olfa Silva,Product Manager,"roadmap,agile,startup,user research,KPIs,product strategy",Entrepreneurship & Management
+U0043,Omar Jlassi,Financial Analyst,"finance,reporting,fintech,modeling,investment",Finance & Banking
+U0044,Mehdi Bernard,Financial Analyst,"finance,reporting,modeling,fintech,excel,investment",Finance & Banking
+U0045,Chedi Fournier,Mobile Developer,"react native,flutter,iOS,kotlin,mobile UX",IT & Software Development
+U0046,Sofien Bouraoui,Entrepreneur,"startup,business development,innovation,networking,leadership,fundraising",Entrepreneurship & Management
+U0047,Mehdi Chaabane,Recruiter,"LinkedIn,HR tech,screening,onboarding",Human Resources
+U0048,Haythem Baccar,Operations Manager,"KPIs,logistics,lean,operations",Entrepreneurship & Management
+U0049,Rawia Ben Ali,AI Researcher,"research,NLP,neural networks,reinforcement learning,pytorch",Data & Analytics
+U0050,Marie Jebali,HR Manager,"HR tech,recruitment,people,talent acquisition,onboarding",Human Resources
+U0051,Léa Michel,Marketing Manager,"digital marketing,content marketing,SEO,campaigns",Marketing & Communication
+U0052,Lotfi Mansouri,DevOps Engineer,"linux,CI/CD,cloud,docker,kubernetes,automation",IT & Software Development
+U0053,Hugo Jebali,Startup Founder,"product,innovation,venture capital,growth hacking",Entrepreneurship & Management
+U0054,Cyrine Ferchichi,Content Creator,"writing,storytelling,SEO,social media,video",Marketing & Communication
+U0055,Ismail Bennasr,System Administrator,"servers,backup,virtualization,networking,security",IT & Software Development
+U0056,Alice Saidi,AI Researcher,"NLP,papers,neural networks,research,pytorch",Data & Analytics
+U0057,Bechir David,Software Engineer,"algorithms,software development,open source,git,java",IT & Software Development
+U0058,Slim Bernard,Blockchain Developer,"smart contracts,solidity,DeFi,web3,ethereum,crypto",Finance & Banking
+U0059,Olfa Simon,Marketing Manager,"SEO,content marketing,analytics,digital marketing",Marketing & Communication
+U0060,Hamza Bouzid,Machine Learning Engineer,"computer vision,MLOps,machine learning,pytorch",Data & Analytics
+U0061,Hichem Oliveira,AI Researcher,"NLP,papers,pytorch,neural networks,reinforcement learning,research",Data & Analytics
+U0062,Romain Ben Salah,DevOps Engineer,"docker,automation,linux,kubernetes,CI/CD",IT & Software Development
+U0063,Yasmine Thomas,Cybersecurity Expert,"SIEM,network security,ethical hacking,penetration testing,cybersecurity",IT & Software Development
+U0064,Mehdi Richard,Blockchain Developer,"smart contracts,web3,DeFi,solidity,ethereum",Finance & Banking
+U0065,Hatem Bernard,Backend Developer,"microservices,springboot,databases,docker,REST API,java",IT & Software Development
+U0066,Donia Chouikha,Project Manager,"budgeting,scrum,stakeholders,agile,planning",Entrepreneurship & Management
+U0067,Ghofrane Bouslama,Business Developer,"sales,B2B,negotiation,partnerships,growth",Sales & Business Development
+U0068,Ichraf Vincent,Social Media Manager,"instagram,community management,analytics,tiktok,content creation",Marketing & Communication
+U0069,Cyrine Garcia,Project Manager,"scrum,risk management,planning,budgeting,agile",Entrepreneurship & Management
+U0070,Nabil Chaker,HR Manager,"talent acquisition,onboarding,people,HR tech,recruitment,employer branding",Human Resources
+U0071,Maxime Roux,Data Scientist,"NLP,python,data science,deep learning",Data & Analytics
+U0072,Malek Farhat,Startup Founder,"growth hacking,SaaS,innovation,pitch,product",Entrepreneurship & Management
+U0073,Ichraf Fakhfakh,Operations Manager,"process optimization,logistics,lean,operations,KPIs",Entrepreneurship & Management
+U0074,Myriam Ben Ali,Backend Developer,"java,databases,springboot,docker,microservices,REST API",IT & Software Development
+U0075,Jihen Saidi,Sales Manager,"B2B sales,account management,CRM,negotiation,pipeline,SaaS",Sales & Business Development
+U0076,Hana Silva,Cloud Architect,"GCP,AWS,cloud architecture,Azure",IT & Software Development
+U0077,Hugo Fakhfakh,HR Manager,"talent acquisition,recruitment,people,employer branding,onboarding,HR tech",Human Resources
+U0078,Emma Belkadi,Digital Strategist,"content,growth,brand strategy,social media,analytics,SEO",Marketing & Communication
+U0079,Hichem Durand,DevOps Engineer,"CI/CD,linux,docker,cloud,kubernetes",IT & Software Development
+U0080,Nour Laurent,Operations Manager,"operations,lean,KPIs,supply chain,process optimization,logistics",Entrepreneurship & Management
+U0081,Ramzi Jlassi,Operations Manager,"supply chain,lean,operations,KPIs,logistics",Entrepreneurship & Management
+U0082,Mounir Boukthir,Data Analyst,"powerBI,SQL,tableau,reporting,data visualization",Data & Analytics
+U0083,Camille Benfraj,Software Engineer,"software development,python,git,algorithms,open source,java",IT & Software Development
+U0084,Lucas Aouadi,Sales Manager,"SaaS,negotiation,account management,B2B sales,pipeline,CRM",Sales & Business Development
+U0085,Mariam Guediche,Entrepreneur,"leadership,networking,business development,fundraising,innovation",Entrepreneurship & Management
+U0086,Wafa David,Marketing Manager,"analytics,social media,content marketing,SEO,campaigns",Marketing & Communication
+U0087,Youssef Ben Amor,AI Researcher,"reinforcement learning,pytorch,neural networks,NLP,research",Data & Analytics
+U0088,Haythem Petit,Operations Manager,"operations,KPIs,process optimization,logistics,lean,supply chain",Entrepreneurship & Management
+U0089,Youssef Dhahri,Data Analyst,"excel,tableau,powerBI,data visualization,reporting",Data & Analytics
+U0090,Omar David,UX Designer,"user research,prototyping,design thinking,wireframing,usability,figma",Design & Creative
+U0091,Rafik Bernard,Marketing Manager,"digital marketing,content marketing,social media,analytics",Marketing & Communication
+U0092,Tarek Guediche,Teacher,"LMS,e-learning,pedagogy,online teaching",Education & Training
+U0093,Emma Bennasr,Full Stack Developer,"node.js,typescript,REST API,mongodb",IT & Software Development
+U0094,Camille Costa,Project Manager,"planning,budgeting,stakeholders,scrum,risk management,agile",Entrepreneurship & Management
+U0095,Emma Costa,Frontend Developer,"UX,javascript,react,angular,web design,CSS",IT & Software Development
+U0096,Marie Dridi,Data Engineer,"hadoop,SQL,spark,data pipelines",Data & Analytics
+U0097,Ahmed Hachicha,Blockchain Developer,"solidity,DeFi,web3,ethereum,crypto,smart contracts",Finance & Banking
+U0098,Amina Benhassen,Business Developer,"growth,B2B,CRM,negotiation",Sales & Business Development
+U0099,Maxime Ferchichi,Financial Analyst,"modeling,investment,reporting,excel",Finance & Banking
+U0100,Hamza Mzoughi,Frontend Developer,"angular,web design,UX,react",IT & Software Development
+U0101,Yasmine Robert,Graphic Designer,"illustration,typography,creativity,branding,adobe,visual identity",Design & Creative
+U0102,Anis Boukthir,Startup Founder,"venture capital,SaaS,product,growth hacking",Entrepreneurship & Management
+U0103,Rim Vincent,Machine Learning Engineer,"computer vision,MLOps,python,pytorch",Data & Analytics
+U0104,Malek Fournier,Financial Analyst,"excel,finance,reporting,investment,fintech,modeling",Finance & Banking
+U0105,Wael Riahi,Data Engineer,"data pipelines,bigdata,ETL,SQL,hadoop",Data & Analytics
+U0106,Ichraf David,Machine Learning Engineer,"machine learning,tensorflow,MLOps,pytorch,python",Data & Analytics
+U0107,Aziz Guediche,System Administrator,"servers,security,backup,networking",IT & Software Development
+U0108,Omar Jebali,Content Creator,"social media,video,writing,SEO,blogging,storytelling",Marketing & Communication
+U0109,Olfa Bernard,Teacher,"e-learning,LMS,pedagogy,curriculum",Education & Training
+U0110,Mehdi Bensalem,Software Engineer,"open source,python,software development,java,git,algorithms",IT & Software Development
+U0111,Julie Chouikha,Teacher,"curriculum,LMS,online teaching,pedagogy,education technology,e-learning",Education & Training
+U0112,Ramzi Thomas,Mobile Developer,"react native,mobile UX,kotlin,flutter,android",IT & Software Development
+U0113,Aziz Hamdi,Marketing Manager,"content marketing,digital marketing,analytics,social media,SEO,campaigns",Marketing & Communication
+U0114,Amira Dubois,Sales Manager,"pipeline,account management,negotiation,CRM,SaaS",Sales & Business Development
+U0115,Sonia Aouadi,Social Media Manager,"content creation,instagram,community management,campaigns",Marketing & Communication
+U0116,Rawia Fakhfakh,Social Media Manager,"campaigns,tiktok,content creation,instagram,community management,analytics",Marketing & Communication
+U0117,Sami Bernard,DevOps Engineer,"linux,kubernetes,docker,automation,cloud,CI/CD",IT & Software Development
+U0118,Rawia Belhadj,Marketing Manager,"analytics,social media,digital marketing,SEO,content marketing,campaigns",Marketing & Communication
+U0119,Sarah Durand,Machine Learning Engineer,"machine learning,pytorch,tensorflow,python,computer vision,MLOps",Data & Analytics
+U0120,Sami Nciri,Blockchain Developer,"crypto,web3,ethereum,DeFi",Finance & Banking
+U0121,Wael Khelifi,UX Designer,"figma,prototyping,user research,design thinking,wireframing",Design & Creative
+U0122,Emma Mahjoub,Data Engineer,"spark,SQL,data pipelines,ETL",Data & Analytics
+U0123,Simon Aouadi,Teacher,"pedagogy,online teaching,education technology,curriculum,LMS,e-learning",Education & Training
+U0124,Asma Khaldi,Business Developer,"growth,partnerships,B2B,sales,negotiation",Sales & Business Development
+U0125,Myriam Moreira,Graphic Designer,"illustration,typography,creativity,branding,adobe,visual identity",Design & Creative
+U0126,Rafik Riahi,Entrepreneur,"networking,business development,leadership,innovation,fundraising",Entrepreneurship & Management
+U0127,Fatima Ghazouani,Operations Manager,"operations,logistics,lean,supply chain",Entrepreneurship & Management
+U0128,Raouia Hammami,Digital Strategist,"SEO,analytics,growth,content",Marketing & Communication
+U0129,Oussama Baccouche,DevOps Engineer,"automation,kubernetes,CI/CD,docker,cloud,linux",IT & Software Development
+U0130,Nour Saidi,Full Stack Developer,"mongodb,REST API,react,node.js,cloud",IT & Software Development
+U0131,Badreddine Dhahri,System Administrator,"networking,virtualization,backup,servers,security",IT & Software Development
+U0132,Adel Robert,Backend Developer,"springboot,REST API,microservices,java",IT & Software Development
+U0133,Soumaya Khaldi,Startup Founder,"venture capital,innovation,growth hacking,pitch,SaaS,product",Entrepreneurship & Management
+U0134,Nicolas Elloumi,DevOps Engineer,"docker,linux,kubernetes,CI/CD,automation,cloud",IT & Software Development
+U0135,Julie Bouaziz,Business Developer,"CRM,negotiation,sales,partnerships,growth,B2B",Sales & Business Development
+U0136,Salma Leroy,Cloud Architect,"Azure,cloud architecture,networking,serverless",IT & Software Development
+U0137,Emna Elloumi,Recruiter,"diversity,LinkedIn,screening,HR tech,talent sourcing,onboarding",Human Resources
+U0138,Laura Hachicha,Operations Manager,"KPIs,process optimization,supply chain,lean",Entrepreneurship & Management
+U0139,Sabrine Aouadi,Content Creator,"video,storytelling,SEO,writing",Marketing & Communication
+U0140,Soumaya Benfraj,AI Researcher,"papers,reinforcement learning,neural networks,research",Data & Analytics
+U0141,Nicolas Santos,Data Scientist,"statistics,data science,deep learning,NLP",Data & Analytics
+U0142,Amel Bouaziz,Product Manager,"agile,startup,roadmap,product strategy,user research,KPIs",Entrepreneurship & Management
+U0143,Hamza Saidi,Startup Founder,"venture capital,product,SaaS,pitch",Entrepreneurship & Management
+U0144,Sofien Aouadi,UI Designer,"design systems,components,figma,accessibility",Design & Creative
+U0145,Haythem Hamdi,Cloud Architect,"AWS,serverless,cloud architecture,Azure,networking,GCP",IT & Software Development
+U0146,Najoua Ben Ali,Machine Learning Engineer,"python,MLOps,tensorflow,pytorch,machine learning,computer vision",Data & Analytics
+U0147,Rafik Guediche,Financial Analyst,"finance,excel,modeling,reporting,fintech,investment",Finance & Banking
+U0148,Antoine Tlili,Backend Developer,"microservices,docker,databases,springboot",IT & Software Development
+U0149,Camille Lefebvre,UX Designer,"wireframing,usability,prototyping,design thinking,figma",Design & Creative
+U0150,Romain David,Product Manager,"user research,agile,startup,KPIs,roadmap",Entrepreneurship & Management
+U0151,Bechir Hamdi,DevOps Engineer,"linux,CI/CD,cloud,docker,kubernetes",IT & Software Development
+U0152,Simon Richard,Backend Developer,"java,databases,REST API,docker",IT & Software Development
+U0153,Sirine Elloumi,Cybersecurity Expert,"SIEM,network security,penetration testing,cybersecurity",IT & Software Development
+U0154,Ghofrane Daoud,Financial Analyst,"finance,fintech,modeling,investment,reporting,excel",Finance & Banking
+U0155,Amira Petit,Project Manager,"risk management,stakeholders,budgeting,agile",Entrepreneurship & Management
+U0156,Ichraf Benfraj,Project Manager,"stakeholders,budgeting,agile,risk management,scrum",Entrepreneurship & Management
+U0157,Leila Mahjoub,Operations Manager,"process optimization,KPIs,operations,logistics,lean,supply chain",Entrepreneurship & Management
+U0158,Emma Guediche,Backend Developer,"databases,java,docker,microservices",IT & Software Development
+U0159,Skander Jrad,Social Media Manager,"content creation,community management,tiktok,campaigns,analytics",Marketing & Communication
+U0160,Ismail Boukthir,Full Stack Developer,"react,cloud,node.js,mongodb",IT & Software Development
+U0161,Bilel Benamor,Blockchain Developer,"DeFi,crypto,solidity,smart contracts,web3,ethereum",Finance & Banking
+U0162,Oussama Simon,Cloud Architect,"serverless,AWS,GCP,networking,Azure",IT & Software Development
+U0163,Skander Bensalem,Machine Learning Engineer,"computer vision,MLOps,machine learning,python",Data & Analytics
+U0164,Amel Bennasr,Product Manager,"roadmap,startup,KPIs,product strategy",Entrepreneurship & Management
+U0165,Ahmed Leroy,Financial Analyst,"investment,excel,reporting,fintech",Finance & Banking
+U0166,Lucas Daoud,Backend Developer,"databases,java,REST API,docker,springboot",IT & Software Development
+U0167,Ines Boukadida,Financial Analyst,"excel,reporting,fintech,finance,investment,modeling",Finance & Banking
+U0168,Wael Sfaxi,Business Developer,"CRM,sales,negotiation,partnerships,growth,B2B",Sales & Business Development
+U0169,Maxime Guediche,Full Stack Developer,"mongodb,cloud,react,REST API,node.js",IT & Software Development
+U0170,Ines Simon,Cloud Architect,"cloud architecture,Azure,GCP,networking,AWS,serverless",IT & Software Development
+U0171,Houda Tlili,Startup Founder,"SaaS,pitch,product,growth hacking",Entrepreneurship & Management
+U0172,Ines Chaabane,Teacher,"LMS,online teaching,education technology,curriculum,pedagogy",Education & Training
+U0173,Sarah Boukadida,Mobile Developer,"flutter,android,mobile UX,iOS,react native",IT & Software Development
+U0174,Hatem Moreira,Frontend Developer,"web design,javascript,angular,react,CSS",IT & Software Development
+U0175,Karim Khelifi,Content Creator,"writing,video,social media,blogging,SEO",Marketing & Communication
+U0176,Radhouane Vincent,AI Researcher,"pytorch,papers,neural networks,reinforcement learning,NLP",Data & Analytics
+U0177,Houda Chaker,Full Stack Developer,"cloud,react,node.js,REST API,typescript,mongodb",IT & Software Development
+U0178,Skander Laurent,Data Engineer,"ETL,bigdata,data pipelines,hadoop,SQL",Data & Analytics
+U0179,Léa Santos,Frontend Developer,"UX,angular,javascript,react,CSS,web design",IT & Software Development
+U0180,Olfa Barhoumi,Mobile Developer,"flutter,mobile UX,react native,android,iOS",IT & Software Development
+U0181,Romain Ghazouani,Cybersecurity Expert,"network security,penetration testing,SIEM,ethical hacking",IT & Software Development
+U0182,Firas Lefebvre,Full Stack Developer,"cloud,REST API,mongodb,node.js,react,typescript",IT & Software Development
+U0183,Malek Jrad,Marketing Manager,"SEO,analytics,campaigns,digital marketing,content marketing",Marketing & Communication
+U0184,Mondher Nciri,System Administrator,"servers,security,linux,virtualization,networking,backup",IT & Software Development
+U0185,Camille Fakhfakh,Mobile Developer,"react native,mobile UX,kotlin,iOS",IT & Software Development
+U0186,Sabrine Belkadi,Recruiter,"diversity,LinkedIn,screening,HR tech,onboarding",Human Resources
+U0187,Oussama Dubois,Project Manager,"scrum,risk management,planning,agile,budgeting,stakeholders",Entrepreneurship & Management
+U0188,Slim Benhassen,Social Media Manager,"analytics,content creation,tiktok,instagram,community management,campaigns",Marketing & Communication
+U0189,Omar Petit,Content Creator,"writing,SEO,video,blogging,social media,storytelling",Marketing & Communication
+U0190,Rim Dubois,System Administrator,"backup,linux,networking,servers",IT & Software Development
+U0191,Myriam Bouzid,Recruiter,"screening,onboarding,HR tech,talent sourcing",Human Resources
+U0192,Nabil Dridi,Content Creator,"writing,storytelling,video,SEO",Marketing & Communication
+U0193,Romain Bouslama,Mobile Developer,"flutter,iOS,android,mobile UX",IT & Software Development
+U0194,Donia Richard,Blockchain Developer,"ethereum,crypto,solidity,smart contracts,DeFi,web3",Finance & Banking
+U0195,Alice Silva,Financial Analyst,"fintech,investment,reporting,finance",Finance & Banking
+U0196,Omar Aouadi,Recruiter,"onboarding,screening,talent sourcing,diversity,LinkedIn,HR tech",Human Resources
+U0197,Sarah Simon,Entrepreneur,"fundraising,business development,innovation,startup,leadership,networking",Entrepreneurship & Management
+U0198,Hugo Hamdi,Data Analyst,"reporting,excel,SQL,tableau,data visualization,powerBI",Data & Analytics
+U0199,Rawia Belkadi,Social Media Manager,"community management,instagram,campaigns,analytics,tiktok",Marketing & Communication
+U0200,Jihen Oliveira,DevOps Engineer,"automation,CI/CD,docker,kubernetes,linux,cloud",IT & Software Development
+U0201,Julie Chaabane,Business Developer,"negotiation,B2B,partnerships,sales,growth,CRM",Sales & Business Development
+U0202,Mondher Ferchichi,Machine Learning Engineer,"machine learning,tensorflow,MLOps,computer vision",Data & Analytics
+U0203,Soumaya Garcia,Sales Manager,"B2B sales,CRM,pipeline,account management,SaaS",Sales & Business Development
+U0204,Romain Bouslama,Operations Manager,"process optimization,lean,operations,KPIs",Entrepreneurship & Management
+U0205,Sabrine Gargouri,Marketing Manager,"social media,analytics,content marketing,campaigns",Marketing & Communication
+U0206,Rim Dridi,Financial Analyst,"excel,modeling,investment,fintech",Finance & Banking
+U0207,Mondher Boukthir,DevOps Engineer,"CI/CD,automation,cloud,docker",IT & Software Development
+U0208,Antoine Hammamia,Data Engineer,"data pipelines,ETL,bigdata,spark,hadoop,SQL",Data & Analytics
+U0209,Hatem Khelifi,Backend Developer,"databases,REST API,microservices,docker,java,springboot",IT & Software Development
+U0210,Hamza Silva,Blockchain Developer,"smart contracts,ethereum,crypto,web3",Finance & Banking
+U0211,Lina Dhahri,Social Media Manager,"instagram,analytics,tiktok,community management,content creation,campaigns",Marketing & Communication
+U0212,Chedi Bernard,Backend Developer,"springboot,docker,microservices,databases,REST API,java",IT & Software Development
+U0213,Ramzi Gharbi,Data Scientist,"data science,python,deep learning,statistics,machine learning,NLP",Data & Analytics
+U0214,Raouia Belhadj,Blockchain Developer,"solidity,web3,DeFi,ethereum",Finance & Banking
+U0215,Yasmine Baccouche,Backend Developer,"springboot,REST API,java,microservices,databases",IT & Software Development
+U0216,Pierre Chekir,Backend Developer,"docker,microservices,databases,java,REST API,springboot",IT & Software Development
+U0217,Farouk Ben Ali,Cloud Architect,"Azure,networking,serverless,AWS",IT & Software Development
+U0218,Lina David,Content Creator,"SEO,blogging,writing,social media,video",Marketing & Communication
+U0219,Soumaya Petit,Recruiter,"onboarding,talent sourcing,LinkedIn,screening,diversity",Human Resources
+U0220,Radhouane Robert,Digital Strategist,"social media,SEO,analytics,brand strategy",Marketing & Communication
+U0221,Anis Morel,Frontend Developer,"web design,react,angular,javascript",IT & Software Development
+U0222,Mehdi Boukthir,Project Manager,"stakeholders,risk management,agile,scrum,planning",Entrepreneurship & Management
+U0223,Nicolas David,Operations Manager,"KPIs,process optimization,logistics,operations",Entrepreneurship & Management
+U0224,Julie Sfaxi,Mobile Developer,"kotlin,mobile UX,iOS,android",IT & Software Development
+U0225,Sara Bouzid,Full Stack Developer,"cloud,typescript,mongodb,REST API",IT & Software Development
+U0226,Amel Vincent,Recruiter,"diversity,talent sourcing,screening,HR tech,LinkedIn,onboarding",Human Resources
+U0227,Rafik Baccar,HR Manager,"onboarding,recruitment,employer branding,people,talent acquisition",Human Resources
+U0228,Hichem Petit,Business Developer,"CRM,partnerships,B2B,negotiation",Sales & Business Development
+U0229,Yousra Boukadida,Digital Strategist,"analytics,growth,brand strategy,SEO,content",Marketing & Communication
+U0230,Slim Ben Amor,Operations Manager,"supply chain,KPIs,logistics,lean,operations",Entrepreneurship & Management
+U0231,Nabil Ferreira,Recruiter,"LinkedIn,HR tech,onboarding,talent sourcing",Human Resources
+U0232,Ichraf Zouari,Teacher,"education technology,online teaching,curriculum,pedagogy,e-learning,LMS",Education & Training
+U0233,Soumaya Morel,Business Developer,"B2B,partnerships,CRM,sales",Sales & Business Development
+U0234,Omar Benhassen,Teacher,"online teaching,education technology,curriculum,LMS,e-learning,pedagogy",Education & Training
+U0235,Anis Baccouche,Startup Founder,"growth hacking,innovation,product,venture capital,SaaS,pitch",Entrepreneurship & Management
+U0236,Emma Bertrand,AI Researcher,"pytorch,research,reinforcement learning,neural networks,NLP",Data & Analytics
+U0237,Ichraf David,Operations Manager,"KPIs,operations,logistics,lean,process optimization,supply chain",Entrepreneurship & Management
+U0238,Chedi Chaker,Content Creator,"blogging,SEO,social media,storytelling",Marketing & Communication
+U0239,Sara Belkadi,Machine Learning Engineer,"python,tensorflow,computer vision,MLOps",Data & Analytics
+U0240,Emna Chouikha,System Administrator,"virtualization,security,servers,linux",IT & Software Development
+U0241,Soumaya Ferreira,Graphic Designer,"typography,visual identity,illustration,creativity,branding,adobe",Design & Creative
+U0242,Fatima Elloumi,Marketing Manager,"digital marketing,social media,content marketing,campaigns,analytics,SEO",Marketing & Communication
+U0243,Lotfi Fournier,Project Manager,"agile,stakeholders,planning,budgeting,scrum,risk management",Entrepreneurship & Management
+U0244,Simon Baccar,Machine Learning Engineer,"python,machine learning,pytorch,MLOps,computer vision,tensorflow",Data & Analytics
+U0245,Hichem Chouikha,Recruiter,"LinkedIn,screening,onboarding,HR tech,talent sourcing,diversity",Human Resources
+U0246,Hela Bouraoui,UI Designer,"accessibility,color theory,prototyping,design systems,figma,components",Design & Creative
+U0247,Cyrine Chaker,Digital Strategist,"SEO,growth,content,brand strategy,social media,analytics",Marketing & Communication
+U0248,Lucas Bennasr,Project Manager,"risk management,scrum,planning,stakeholders,budgeting",Entrepreneurship & Management
+U0249,Myriam Bertrand,Operations Manager,"logistics,operations,lean,supply chain,process optimization",Entrepreneurship & Management
+U0250,Aziz Tlili,UX Designer,"figma,design thinking,usability,user research",Design & Creative
+U0251,Romain Barhoumi,Sales Manager,"CRM,account management,pipeline,negotiation",Sales & Business Development
+U0252,Baptiste Benamor,Cybersecurity Expert,"SIEM,ethical hacking,cybersecurity,network security",IT & Software Development
+U0253,Pierre Lefebvre,Project Manager,"scrum,agile,stakeholders,budgeting,risk management,planning",Entrepreneurship & Management
+U0254,Sami Baccouche,Software Engineer,"software development,open source,java,git,python,algorithms",IT & Software Development
+U0255,Wael Benhassen,Frontend Developer,"UX,web design,react,angular",IT & Software Development
+U0256,Haythem Mansouri,Data Analyst,"powerBI,excel,data visualization,reporting,tableau",Data & Analytics
+U0257,Sirine Benmoussa,Machine Learning Engineer,"tensorflow,MLOps,machine learning,pytorch",Data & Analytics
+U0258,Olfa Thomas,Teacher,"LMS,education technology,curriculum,e-learning",Education & Training
+U0259,Adel Bouslama,Data Engineer,"data pipelines,ETL,hadoop,spark,bigdata,SQL",Data & Analytics
+U0260,Emma Jebali,Data Analyst,"reporting,data visualization,tableau,SQL,powerBI,excel",Data & Analytics
+U0261,Bechir Nciri,Data Analyst,"data visualization,SQL,powerBI,excel",Data & Analytics
+U0262,Lotfi Gargouri,Entrepreneur,"business development,leadership,networking,innovation,startup",Entrepreneurship & Management
+U0263,Lotfi Dhahri,Entrepreneur,"leadership,startup,innovation,fundraising",Entrepreneurship & Management
+U0264,Mehdi Guediche,System Administrator,"virtualization,linux,servers,networking,security,backup",IT & Software Development
+U0265,Donia Petit,Mobile Developer,"kotlin,mobile UX,iOS,react native,android",IT & Software Development
+U0266,Oussama Michel,Product Manager,"startup,KPIs,product strategy,roadmap",Entrepreneurship & Management
+U0267,Radhouane Lefebvre,Content Creator,"SEO,writing,video,storytelling",Marketing & Communication
+U0268,Najoua Ferchichi,Mobile Developer,"iOS,mobile UX,android,flutter",IT & Software Development
+U0269,Simon Bouraoui,Teacher,"LMS,education technology,e-learning,pedagogy",Education & Training
+U0270,Firas Simon,Recruiter,"onboarding,talent sourcing,screening,HR tech,LinkedIn",Human Resources
+U0271,Ismail Trabelsi,HR Manager,"recruitment,talent acquisition,people,onboarding,employer branding",Human Resources
+U0272,Myriam Bouaziz,Frontend Developer,"CSS,javascript,angular,react",IT & Software Development
+U0273,Malek Baccouche,Recruiter,"screening,diversity,onboarding,LinkedIn,talent sourcing",Human Resources
+U0274,Simon Garcia,Cybersecurity Expert,"cybersecurity,ethical hacking,network security,penetration testing,SIEM",IT & Software Development
+U0275,Nour Ben Ali,Software Engineer,"algorithms,open source,java,git",IT & Software Development
+U0276,Hajer Hammami,Entrepreneur,"business development,fundraising,leadership,startup,innovation",Entrepreneurship & Management
+U0277,Karim Hamdi,Data Scientist,"data science,machine learning,deep learning,statistics",Data & Analytics
+U0278,Karim Dubois,Frontend Developer,"UX,javascript,CSS,react",IT & Software Development
+U0279,Youssef Garcia,Product Manager,"agile,KPIs,roadmap,product strategy",Entrepreneurship & Management
+U0280,Nour Vincent,UI Designer,"color theory,components,design systems,accessibility,figma,prototyping",Design & Creative
+U0281,Ghofrane Bennasr,Operations Manager,"operations,KPIs,supply chain,process optimization",Entrepreneurship & Management
+U0282,Léa Hammamia,Teacher,"curriculum,education technology,online teaching,LMS",Education & Training
+U0283,Hichem Hachicha,Mobile Developer,"android,react native,kotlin,flutter,iOS",IT & Software Development
+U0284,Salma Tlili,Business Developer,"partnerships,negotiation,growth,CRM",Sales & Business Development
+U0285,Skander Baccouche,Social Media Manager,"community management,tiktok,campaigns,content creation",Marketing & Communication
+U0286,Bilel Dubois,Content Creator,"SEO,blogging,writing,video",Marketing & Communication
+U0287,Hajer Silva,Machine Learning Engineer,"pytorch,MLOps,python,computer vision",Data & Analytics
+U0288,Amel Bouslama,Graphic Designer,"branding,creativity,adobe,typography",Design & Creative
+U0289,Oussama Petit,Entrepreneur,"networking,fundraising,innovation,startup,leadership,business development",Entrepreneurship & Management
+U0290,Hajer Robert,Digital Strategist,"growth,SEO,content,analytics,brand strategy",Marketing & Communication
+U0291,Ismail Richard,UI Designer,"components,prototyping,accessibility,figma",Design & Creative
+U0292,Emma Ben Ali,Mobile Developer,"iOS,mobile UX,android,react native",IT & Software Development
+U0293,Amira Ferchichi,Marketing Manager,"social media,campaigns,SEO,analytics",Marketing & Communication
+U0294,Alice Chaker,Startup Founder,"product,innovation,pitch,venture capital,SaaS",Entrepreneurship & Management
+U0295,Hana Baccouche,Teacher,"LMS,e-learning,online teaching,education technology",Education & Training
+U0296,Pierre Farhat,Software Engineer,"software development,git,python,algorithms,open source",IT & Software Development
+U0297,Mohamed Jrad,System Administrator,"virtualization,linux,backup,servers,networking",IT & Software Development
+U0298,Fatima Ben Salah,Recruiter,"talent sourcing,onboarding,HR tech,screening",Human Resources
+U0299,Olfa Trabelsi,System Administrator,"servers,backup,networking,linux,virtualization,security",IT & Software Development
+U0300,Jihen Jebali,Startup Founder,"growth hacking,innovation,venture capital,SaaS,product",Entrepreneurship & Management
+U0301,Emna Roux,Entrepreneur,"fundraising,business development,startup,networking,innovation,leadership",Entrepreneurship & Management
+U0302,Bechir Fakhfakh,Social Media Manager,"content creation,instagram,analytics,community management,campaigns,tiktok",Marketing & Communication
+U0303,Mounir Martin,Marketing Manager,"digital marketing,campaigns,analytics,social media,content marketing,SEO",Marketing & Communication
+U0304,Rim Belkadi,Backend Developer,"microservices,docker,java,REST API,springboot,databases",IT & Software Development
+U0305,Amel Moreira,Mobile Developer,"android,flutter,iOS,mobile UX,kotlin,react native",IT & Software Development
+U0306,Léa Garcia,Marketing Manager,"analytics,SEO,digital marketing,content marketing,campaigns",Marketing & Communication
+U0307,Omar Nciri,Financial Analyst,"finance,fintech,excel,investment",Finance & Banking
+U0308,Leila Benamor,Blockchain Developer,"smart contracts,web3,DeFi,crypto,ethereum",Finance & Banking
+U0309,Simon Fournier,Social Media Manager,"analytics,community management,tiktok,campaigns",Marketing & Communication
+U0310,Ines Dridi,Operations Manager,"lean,supply chain,KPIs,operations",Entrepreneurship & Management
+U0311,Lina Riahi,Full Stack Developer,"mongodb,REST API,cloud,react",IT & Software Development
+U0312,Houda Saidi,Full Stack Developer,"REST API,cloud,typescript,node.js",IT & Software Development
+U0313,Leila Jlassi,Digital Strategist,"brand strategy,social media,growth,analytics,SEO,content",Marketing & Communication
+U0314,Ghofrane Gargouri,Full Stack Developer,"typescript,react,cloud,mongodb,REST API,node.js",IT & Software Development
+U0315,Donia Benamor,Graphic Designer,"illustration,branding,adobe,creativity,visual identity",Design & Creative
+U0316,Hatem Hamdi,Graphic Designer,"adobe,typography,visual identity,creativity,branding",Design & Creative
+U0317,Camille Ferreira,AI Researcher,"reinforcement learning,neural networks,research,NLP,pytorch",Data & Analytics
+U0318,Nesrine Costa,Social Media Manager,"content creation,community management,campaigns,analytics,instagram",Marketing & Communication
+U0319,Salma Boukthir,AI Researcher,"research,neural networks,papers,pytorch,NLP",Data & Analytics
+U0320,Haythem Durand,Entrepreneur,"innovation,business development,leadership,fundraising,startup",Entrepreneurship & Management
+U0321,Emma Ferchichi,Data Analyst,"tableau,excel,data visualization,SQL,reporting,powerBI",Data & Analytics
+U0322,Mondher Bouaziz,Recruiter,"screening,LinkedIn,HR tech,talent sourcing,onboarding,diversity",Human Resources
+U0323,Yousra Hammamia,Social Media Manager,"content creation,analytics,campaigns,community management",Marketing & Communication
+U0324,Bechir Michel,System Administrator,"backup,security,linux,networking,servers,virtualization",IT & Software Development
+U0325,Aziz Baccar,Digital Strategist,"SEO,social media,brand strategy,growth",Marketing & Communication
+U0326,Julie Guediche,Marketing Manager,"digital marketing,analytics,campaigns,SEO,social media",Marketing & Communication
+U0327,Farouk Laurent,Project Manager,"risk management,planning,stakeholders,budgeting,agile",Entrepreneurship & Management
+U0328,Myriam Bouzid,Sales Manager,"pipeline,negotiation,B2B sales,account management",Sales & Business Development
+U0329,Nour Tlili,Digital Strategist,"growth,content,analytics,SEO,social media",Marketing & Communication
+U0330,Myriam Richard,DevOps Engineer,"automation,linux,CI/CD,kubernetes,docker",IT & Software Development
+U0331,Sara Gharbi,Data Scientist,"NLP,machine learning,data science,statistics,deep learning",Data & Analytics
+U0332,Hela Chaabane,Data Engineer,"SQL,data pipelines,bigdata,spark,hadoop",Data & Analytics
+U0333,Sarah Mahjoub,Data Analyst,"reporting,data visualization,tableau,excel,SQL,powerBI",Data & Analytics
+U0334,Maxime Hammamia,Social Media Manager,"campaigns,tiktok,analytics,content creation",Marketing & Communication
+U0335,Oussama Bouaziz,DevOps Engineer,"docker,CI/CD,cloud,kubernetes,automation,linux",IT & Software Development
+U0336,Lotfi Durand,UI Designer,"accessibility,color theory,prototyping,components,figma,design systems",Design & Creative
+U0337,Sofien Thomas,Data Analyst,"reporting,SQL,excel,tableau,data visualization,powerBI",Data & Analytics
+U0338,Yasmine Aouadi,Graphic Designer,"branding,typography,creativity,visual identity",Design & Creative
+U0339,Nabil Hamdi,Cybersecurity Expert,"penetration testing,ethical hacking,SIEM,cybersecurity,network security",IT & Software Development
+U0340,Besma Benhassen,Cybersecurity Expert,"network security,penetration testing,SIEM,cybersecurity",IT & Software Development
+U0341,Sofien Khaldi,Teacher,"pedagogy,education technology,LMS,online teaching",Education & Training
+U0342,Simon Durand,Recruiter,"screening,diversity,LinkedIn,talent sourcing,HR tech,onboarding",Human Resources
+U0343,Mondher Mansouri,Operations Manager,"operations,process optimization,supply chain,lean",Entrepreneurship & Management
+U0344,Emma Leroy,System Administrator,"security,linux,virtualization,backup",IT & Software Development
+U0345,Lina Garcia,Machine Learning Engineer,"computer vision,MLOps,pytorch,python,machine learning,tensorflow",Data & Analytics
+U0346,Salma Mansouri,Blockchain Developer,"web3,ethereum,DeFi,solidity,crypto",Finance & Banking
+U0347,Amel Moreira,Digital Strategist,"social media,content,analytics,growth,brand strategy,SEO",Marketing & Communication
+U0348,Amel Khelifi,Digital Strategist,"growth,social media,analytics,content,SEO,brand strategy",Marketing & Communication
+U0349,Hugo Benamor,System Administrator,"linux,networking,backup,servers,security,virtualization",IT & Software Development
+U0350,Baptiste Saidi,Entrepreneur,"leadership,business development,fundraising,networking",Entrepreneurship & Management
+U0351,Soumaya Durand,Mobile Developer,"kotlin,iOS,android,react native,mobile UX,flutter",IT & Software Development
+U0352,Nicolas Jlassi,HR Manager,"people,HR tech,employer branding,talent acquisition,onboarding,recruitment",Human Resources
+U0353,Clara Ben Salah,Full Stack Developer,"REST API,mongodb,node.js,typescript,react,cloud",IT & Software Development
+U0354,Wafa Jrad,Teacher,"curriculum,online teaching,LMS,education technology,e-learning",Education & Training
+U0355,Emma Durand,Marketing Manager,"digital marketing,analytics,campaigns,content marketing,SEO,social media",Marketing & Communication
+U0356,Yasmine Zouari,Blockchain Developer,"ethereum,DeFi,smart contracts,web3,crypto",Finance & Banking
+U0357,Romain Bennasr,Data Engineer,"spark,ETL,SQL,bigdata,hadoop",Data & Analytics
+U0358,Pierre Sfaxi,Frontend Developer,"UX,angular,react,CSS,javascript",IT & Software Development
+U0359,Amina Nciri,Software Engineer,"open source,python,software development,algorithms",IT & Software Development
+U0360,Mariam Laurent,Blockchain Developer,"ethereum,web3,crypto,smart contracts",Finance & Banking
+U0361,Anaïs Saidi,Sales Manager,"CRM,negotiation,B2B sales,pipeline",Sales & Business Development
+U0362,Houda Riahi,UI Designer,"components,design systems,accessibility,figma,prototyping",Design & Creative
+U0363,Tarek Lefebvre,Software Engineer,"git,software development,open source,java,python,algorithms",IT & Software Development
+U0364,Ghofrane Ferreira,Blockchain Developer,"ethereum,crypto,smart contracts,solidity",Finance & Banking
+U0365,Maxime Gargouri,Digital Strategist,"growth,analytics,social media,content,brand strategy",Marketing & Communication
+U0366,Ramzi David,UX Designer,"design thinking,figma,user research,wireframing,usability,prototyping",Design & Creative
+U0367,Mondher Farhat,Entrepreneur,"innovation,startup,fundraising,leadership,networking",Entrepreneurship & Management
+U0368,Skander Khaldi,Content Creator,"blogging,social media,SEO,video,writing",Marketing & Communication
+U0369,Ichraf Richard,Backend Developer,"docker,java,databases,springboot",IT & Software Development
+U0370,Khalil Belkadi,Frontend Developer,"web design,angular,CSS,react,UX",IT & Software Development
+U0371,Bilel Michel,Mobile Developer,"flutter,iOS,kotlin,mobile UX,android",IT & Software Development
+U0372,Amira Michel,UI Designer,"color theory,figma,components,accessibility,design systems",Design & Creative
+U0373,Nour Aouadi,Frontend Developer,"javascript,CSS,UX,react",IT & Software Development
+U0374,Laura Silva,Frontend Developer,"UX,react,javascript,CSS,angular",IT & Software Development
+U0375,Baptiste Khaldi,Data Engineer,"ETL,SQL,bigdata,spark,hadoop",Data & Analytics
+U0376,Firas Benamor,Cloud Architect,"GCP,serverless,networking,cloud architecture",IT & Software Development
+U0377,Tarek Belhadj,Backend Developer,"REST API,docker,microservices,java,springboot",IT & Software Development
+U0378,Emma Sfaxi,Content Creator,"storytelling,writing,SEO,social media",Marketing & Communication
+U0379,Haythem Simon,Software Engineer,"python,software development,git,java",IT & Software Development
+U0380,Lina Gargouri,Mobile Developer,"flutter,mobile UX,android,kotlin",IT & Software Development
+U0381,Wael Baccar,Recruiter,"HR tech,diversity,talent sourcing,onboarding,LinkedIn,screening",Human Resources
+U0382,Najoua Farhat,Data Analyst,"tableau,excel,data visualization,reporting",Data & Analytics
+U0383,Slim Benhassen,Graphic Designer,"adobe,visual identity,illustration,creativity,branding",Design & Creative
+U0384,Wassim Benmoussa,Graphic Designer,"visual identity,branding,illustration,creativity,typography,adobe",Design & Creative
+U0385,Nour Garcia,Entrepreneur,"startup,innovation,leadership,networking",Entrepreneurship & Management
+U0386,Badreddine Chekir,Software Engineer,"python,open source,algorithms,git,java",IT & Software Development
+U0387,Skander Aouadi,Recruiter,"talent sourcing,LinkedIn,HR tech,diversity,screening",Human Resources
+U0388,Youssef Laurent,Recruiter,"HR tech,screening,talent sourcing,diversity,onboarding,LinkedIn",Human Resources
+U0389,Nicolas Ghazouani,Backend Developer,"docker,java,REST API,microservices,databases,springboot",IT & Software Development
+U0390,Mondher Belhadj,UI Designer,"prototyping,components,color theory,design systems,accessibility",Design & Creative
+U0391,Youssef Mzoughi,AI Researcher,"pytorch,reinforcement learning,neural networks,NLP",Data & Analytics
+U0392,Hana Dubois,Business Developer,"negotiation,sales,CRM,partnerships,B2B",Sales & Business Development
+U0393,Aymen Robert,Startup Founder,"venture capital,SaaS,growth hacking,innovation",Entrepreneurship & Management
+U0394,Baptiste Silva,Machine Learning Engineer,"tensorflow,pytorch,machine learning,python",Data & Analytics
+U0395,Ramzi Daoud,HR Manager,"recruitment,HR tech,employer branding,people,onboarding,talent acquisition",Human Resources
+U0396,Radhouane Bertrand,Entrepreneur,"innovation,startup,fundraising,networking",Entrepreneurship & Management
+U0397,Mohamed Khelifi,Project Manager,"scrum,planning,risk management,stakeholders",Entrepreneurship & Management
+U0398,Sarah Dridi,Startup Founder,"venture capital,product,SaaS,growth hacking",Entrepreneurship & Management
+U0399,Sabrine Saidi,Full Stack Developer,"node.js,cloud,REST API,typescript,mongodb",IT & Software Development
+U0400,Hugo Martin,HR Manager,"recruitment,onboarding,employer branding,people,talent acquisition",Human Resources
+U0401,Khalil Mahjoub,Operations Manager,"lean,supply chain,logistics,process optimization,KPIs",Entrepreneurship & Management
+U0402,Julie Benmoussa,Teacher,"LMS,education technology,e-learning,online teaching,pedagogy",Education & Training
+U0403,Nabil Baccouche,Recruiter,"diversity,onboarding,LinkedIn,HR tech",Human Resources
+U0404,Badreddine Trabelsi,Social Media Manager,"community management,content creation,analytics,tiktok,campaigns,instagram",Marketing & Communication
+U0405,Rim Mahjoub,Data Scientist,"deep learning,data science,machine learning,NLP,python",Data & Analytics
+U0406,Rawia Lefebvre,Digital Strategist,"analytics,SEO,brand strategy,content,growth,social media",Marketing & Communication
+U0407,Cyrine Khelifi,Project Manager,"planning,risk management,scrum,agile,stakeholders,budgeting",Entrepreneurship & Management
+U0408,Haythem Daoud,Data Scientist,"NLP,statistics,data science,deep learning,machine learning,python",Data & Analytics
+U0409,Badreddine Bensalem,Data Analyst,"excel,reporting,tableau,data visualization,SQL",Data & Analytics
+U0410,Fatima Lefebvre,Sales Manager,"pipeline,account management,CRM,B2B sales",Sales & Business Development
+U0411,Khaled Chaabane,UI Designer,"figma,design systems,color theory,prototyping",Design & Creative
+U0412,Skander Dhahri,Backend Developer,"databases,REST API,java,springboot,microservices",IT & Software Development
+U0413,Wael Baccouche,Data Engineer,"data pipelines,bigdata,ETL,spark,hadoop,SQL",Data & Analytics
+U0414,Pierre Moreira,Data Analyst,"SQL,reporting,powerBI,excel,tableau",Data & Analytics
+U0415,Baptiste Vincent,HR Manager,"recruitment,talent acquisition,HR tech,onboarding,people,employer branding",Human Resources
+U0416,Mounir Tlili,Marketing Manager,"digital marketing,SEO,content marketing,campaigns,analytics,social media",Marketing & Communication
+U0417,Amina Bouslama,Blockchain Developer,"web3,smart contracts,solidity,crypto",Finance & Banking
+U0418,Tarek Chekir,Startup Founder,"product,venture capital,pitch,SaaS",Entrepreneurship & Management
+U0419,Sabrine Hamdi,Data Engineer,"data pipelines,bigdata,ETL,SQL,hadoop",Data & Analytics
+U0420,Sami Petit,Project Manager,"planning,agile,stakeholders,scrum",Entrepreneurship & Management
+U0421,Fatima Boukadida,Startup Founder,"venture capital,growth hacking,SaaS,innovation",Entrepreneurship & Management
+U0422,Mehdi Mzoughi,Full Stack Developer,"typescript,cloud,REST API,mongodb,node.js",IT & Software Development
+U0423,Anis Sfaxi,Financial Analyst,"finance,reporting,fintech,modeling",Finance & Banking
+U0424,Sonia Hachicha,Startup Founder,"growth hacking,product,SaaS,venture capital,pitch,innovation",Entrepreneurship & Management
+U0425,Hugo David,Teacher,"e-learning,curriculum,online teaching,pedagogy",Education & Training
+U0426,Rania Benmoussa,Sales Manager,"B2B sales,SaaS,CRM,account management",Sales & Business Development
+U0427,Nicolas Benmoussa,Full Stack Developer,"node.js,mongodb,REST API,react,typescript",IT & Software Development
+U0428,Marie Belhadj,Full Stack Developer,"typescript,REST API,react,cloud,mongodb,node.js",IT & Software Development
+U0429,Malek Dubois,Machine Learning Engineer,"computer vision,python,tensorflow,machine learning,pytorch",Data & Analytics
+U0430,Emma Khelifi,Mobile Developer,"kotlin,flutter,mobile UX,iOS,react native,android",IT & Software Development
+U0431,Oussama Moreira,Project Manager,"agile,planning,stakeholders,risk management,scrum,budgeting",Entrepreneurship & Management
+U0432,Rawia Bennasr,Full Stack Developer,"cloud,node.js,react,typescript,REST API",IT & Software Development
+U0433,Zied Sfaxi,Product Manager,"agile,product strategy,user research,KPIs",Entrepreneurship & Management
+U0434,Simon Martin,AI Researcher,"neural networks,pytorch,research,NLP,reinforcement learning,papers",Data & Analytics
+U0435,Nabil Bertrand,HR Manager,"HR tech,people,onboarding,recruitment,talent acquisition,employer branding",Human Resources
+U0436,Hichem Chouikha,Mobile Developer,"mobile UX,kotlin,flutter,android,iOS,react native",IT & Software Development
+U0437,Cyrine Chekir,Recruiter,"screening,diversity,onboarding,talent sourcing,HR tech",Human Resources
+U0438,Hatem Guediche,Mobile Developer,"mobile UX,android,flutter,react native,iOS,kotlin",IT & Software Development
+U0439,Omar Richard,Operations Manager,"logistics,process optimization,operations,supply chain,lean",Entrepreneurship & Management
+U0440,Besma Nciri,Project Manager,"risk management,planning,budgeting,scrum",Entrepreneurship & Management
+U0441,Nour Hamdi,Full Stack Developer,"REST API,react,cloud,mongodb",IT & Software Development
+U0442,Besma Laurent,Content Creator,"SEO,blogging,writing,video",Marketing & Communication
+U0443,Amina Morel,HR Manager,"employer branding,people,recruitment,onboarding",Human Resources
+U0444,Sonia Ferchichi,Frontend Developer,"javascript,CSS,UX,react",IT & Software Development
+U0445,Amina Ferchichi,Operations Manager,"lean,operations,KPIs,process optimization,logistics",Entrepreneurship & Management
+U0446,Simon Bouzid,Entrepreneur,"innovation,networking,leadership,startup,fundraising",Entrepreneurship & Management
+U0447,Maxime David,Digital Strategist,"analytics,growth,brand strategy,SEO,content",Marketing & Communication
+U0448,Nabil Farhat,Data Engineer,"hadoop,bigdata,SQL,ETL,spark,data pipelines",Data & Analytics
+U0449,Romain Hachicha,System Administrator,"servers,linux,backup,security",IT & Software Development
+U0450,Julie Chaabane,Software Engineer,"algorithms,java,git,open source",IT & Software Development
+U0451,Amina Benfraj,Financial Analyst,"fintech,excel,reporting,finance,investment",Finance & Banking
+U0452,Salma Laurent,HR Manager,"recruitment,people,HR tech,onboarding,talent acquisition,employer branding",Human Resources
+U0453,Simon Riahi,Sales Manager,"pipeline,SaaS,account management,CRM",Sales & Business Development
+U0454,Lotfi Bennasr,AI Researcher,"pytorch,neural networks,reinforcement learning,research",Data & Analytics
+U0455,Bechir Boukadida,Cybersecurity Expert,"penetration testing,network security,ethical hacking,SIEM",IT & Software Development
+U0456,Bechir Gargouri,Machine Learning Engineer,"python,MLOps,pytorch,computer vision,machine learning,tensorflow",Data & Analytics
+U0457,Pierre Daoud,System Administrator,"networking,security,servers,backup,linux",IT & Software Development
+U0458,Rawia Saidi,Startup Founder,"pitch,SaaS,growth hacking,innovation,venture capital,product",Entrepreneurship & Management
+U0459,Sofien Ben Ali,Graphic Designer,"typography,creativity,visual identity,illustration,branding",Design & Creative
+U0460,Slim Ben Amor,Sales Manager,"SaaS,account management,B2B sales,CRM",Sales & Business Development
+U0461,Sonia Morel,Cloud Architect,"serverless,cloud architecture,GCP,Azure,AWS,networking",IT & Software Development
+U0462,Donia Ferchichi,Marketing Manager,"campaigns,social media,SEO,analytics,digital marketing",Marketing & Communication
+U0463,Raouia Dridi,Teacher,"online teaching,pedagogy,curriculum,education technology,e-learning",Education & Training
+U0464,Ahmed Dubois,Operations Manager,"supply chain,operations,KPIs,lean",Entrepreneurship & Management
+U0465,Ichraf Jlassi,Cybersecurity Expert,"penetration testing,SIEM,ethical hacking,network security,cybersecurity",IT & Software Development
+U0466,Ahmed Mansouri,AI Researcher,"research,reinforcement learning,NLP,papers,pytorch,neural networks",Data & Analytics
+U0467,Léa Ben Salah,Entrepreneur,"leadership,business development,networking,startup",Entrepreneurship & Management
+U0468,Houda Gargouri,System Administrator,"virtualization,networking,linux,backup,security,servers",IT & Software Development
+U0469,Emna Laurent,Marketing Manager,"analytics,SEO,content marketing,campaigns,social media",Marketing & Communication
+U0470,Oussama Jebali,Data Engineer,"spark,hadoop,SQL,ETL,bigdata",Data & Analytics
+U0471,Khalil Trabelsi,System Administrator,"linux,virtualization,servers,networking",IT & Software Development
+U0472,Nicolas Barhoumi,Frontend Developer,"javascript,UX,web design,CSS,angular,react",IT & Software Development
+U0473,Sabrine Fakhfakh,Cloud Architect,"GCP,serverless,Azure,AWS,networking,cloud architecture",IT & Software Development
+U0474,Hichem Nciri,Operations Manager,"operations,supply chain,lean,logistics,process optimization,KPIs",Entrepreneurship & Management
+U0475,Adel Riahi,Teacher,"LMS,pedagogy,curriculum,education technology",Education & Training
+U0476,Wassim Daoud,Recruiter,"LinkedIn,talent sourcing,screening,onboarding,diversity",Human Resources
+U0477,Nesrine Aouadi,Software Engineer,"git,python,java,algorithms",IT & Software Development
+U0478,Pierre Leroy,Mobile Developer,"mobile UX,flutter,kotlin,react native",IT & Software Development
+U0479,Julie Hammami,Business Developer,"CRM,negotiation,sales,partnerships,growth",Sales & Business Development
+U0480,Sara Benmoussa,Content Creator,"storytelling,social media,writing,SEO,video,blogging",Marketing & Communication
+U0481,Donia Sfaxi,Marketing Manager,"social media,campaigns,content marketing,analytics,digital marketing",Marketing & Communication
+U0482,Chedi Chaker,Data Analyst,"data visualization,reporting,tableau,powerBI",Data & Analytics
+U0483,Nabil Petit,Recruiter,"LinkedIn,talent sourcing,diversity,HR tech,onboarding,screening",Human Resources
+U0484,Houda Hamdi,Sales Manager,"SaaS,negotiation,CRM,pipeline,account management,B2B sales",Sales & Business Development
+U0485,Laura Bouzid,Cybersecurity Expert,"penetration testing,cybersecurity,ethical hacking,network security,SIEM",IT & Software Development
+U0486,Tarek Belhadj,UI Designer,"prototyping,color theory,design systems,components",Design & Creative
+U0487,Khaled Laurent,DevOps Engineer,"automation,docker,linux,cloud,CI/CD",IT & Software Development
+U0488,Amira Bertrand,Frontend Developer,"UX,react,CSS,web design",IT & Software Development
+U0489,Hana Mzoughi,Teacher,"pedagogy,curriculum,LMS,e-learning,education technology",Education & Training
+U0490,Alice Fakhfakh,HR Manager,"recruitment,onboarding,employer branding,HR tech",Human Resources
+U0491,Radhouane Jlassi,Teacher,"curriculum,e-learning,education technology,online teaching,LMS",Education & Training
+U0492,Houda Guediche,Recruiter,"onboarding,diversity,talent sourcing,screening",Human Resources
+U0493,Antoine Costa,Graphic Designer,"visual identity,branding,illustration,creativity,typography,adobe",Design & Creative
+U0494,Mariam Thomas,Marketing Manager,"campaigns,analytics,social media,content marketing,SEO,digital marketing",Marketing & Communication
+U0495,Adel Nciri,Project Manager,"risk management,budgeting,stakeholders,planning",Entrepreneurship & Management
+U0496,Hela Elloumi,DevOps Engineer,"docker,linux,automation,CI/CD",IT & Software Development
+U0497,Sirine Hachicha,DevOps Engineer,"cloud,docker,automation,kubernetes,linux",IT & Software Development
+U0498,Khalil Thomas,AI Researcher,"research,reinforcement learning,papers,pytorch,NLP,neural networks",Data & Analytics
+U0499,Emna Moreira,System Administrator,"backup,linux,security,virtualization",IT & Software Development
+U0500,Anis Fournier,Sales Manager,"CRM,account management,SaaS,pipeline,B2B sales,negotiation",Sales & Business Development
